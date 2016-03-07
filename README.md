@@ -1,5 +1,5 @@
 # Algorithms
-For my Algorithms, Programming and Data Structures module, I need to implement common algorithms. Here is the list of Algorithms I intend to write in Python, C++, C#, C, Lua and Java
+For my Algorithms, Programming and Data Structures module, I need to implement common algorithms. Here is the list of Algorithms I intend to write in Python, C++, and Java
 
 
 #A* search algorithm 
